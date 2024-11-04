@@ -1,7 +1,0 @@
-Nama = Alvino Dwi Nengku Wijaya
-NPM = 23081010284
-
-
-Link GitHub:
-
-https://github.com/AlvinoWJ/Struktur_Data.git
